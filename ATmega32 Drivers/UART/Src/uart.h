@@ -1,13 +1,17 @@
-/*
- * gpio.h
+/*******************************************************************************
+ * File Name: adc.h
  *
- *  Created on: Apr 28, 2024
- *      Author: Hussein El-Shamy
- */
+ * Description: Header file for UART driver for ATmega32 microcontroller.
+ *
+ * Authors: IEEE-Tanta Student Branch
+ *          Hussein El-Shamy
+ *
+ * Last Update: 24 May 2024
+ ******************************************************************************/
 
-#ifndef GPIO_H_
-#define GPIO_H_
+#ifndef UART_H_
+#define UART_H_
 
 
 
-#endif /* GPIO_H_ */
+#endif /* UART_H_ */

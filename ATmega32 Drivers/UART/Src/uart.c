@@ -1,8 +1,11 @@
-/*
- * gpio.c
+/*******************************************************************************
+ * File Name: uart.c
  *
- *  Created on: Apr 28, 2024
- *      Author: Hussein El-Shamy
- */
-
+ * Description: Implementation file for UART driver for ATmega32 microcontroller.
+ *
+ * Authors: IEEE-Tanta Student Branch
+ *          Hussein El-Shamy
+ *
+ * Last Update: 24 May 2024
+ ******************************************************************************/
 
